@@ -1,0 +1,10 @@
+Here we are compiling a community changelog.
+
+If you come up with a modification of our designs, please share it with the community, log your changes below, and upload the files to our GitHub repository.
+
+Change Format
+Your name Date Description of modification
+
+Change Log
+
+Fabio Souza 2020-11-26 Initial release of Franzininho WIFI under CERN OHL v1.2 or later.

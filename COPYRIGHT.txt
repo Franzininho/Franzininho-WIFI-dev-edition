@@ -1,0 +1,8 @@
+Copyright Fabio Souza (Franzininho) 11/2020.
+ This Hardware is licensed under the CERN OHL v. 1.2. 
+You may redistribute and modify this design under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This design is distributed
+ WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+ MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+ PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+ conditions.
