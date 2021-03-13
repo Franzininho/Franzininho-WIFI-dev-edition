@@ -41,7 +41,7 @@ The project is an open-source hardware and is available on CERN open hardware li
 
 The Franzininho WiFi board is certified in OSHWA: [UID BR000006](https://certification.oshwa.org/br000006.html)
 
-![oshwa](OSHW_mark_BR000006.png)
+![oshwa](license/OSHW_mark_BR000006.png)
 
 ### (PT-BR)
 A Franzininho WiFi é uma placa de desenvolvimento para avaliar os módulos ESP32-S2 (Wroom e Wrover) e desenvolver a nova geração de placas Franzininho. O projeto Franzininho foi criado para desenvolver habilidades em pessoas nas áreas de eletrônica e programação, por meio de atividades no formato DIY e em conjunto com a cultura maker, no Brasil.
