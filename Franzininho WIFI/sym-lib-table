@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Franzininho-eagle-import)(type Legacy)(uri ${KIPRJMOD}/LIBS/Franzininho-eagle-import.lib)(options "")(descr ""))
+  (lib (name Franzininho-WIFI-rescue)(type Legacy)(uri "${KIPRJMOD}/Franzininho WIFI-rescue.lib")(options "")(descr ""))
 )
