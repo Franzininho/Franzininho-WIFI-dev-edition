@@ -79,7 +79,7 @@ JTAG pads for advanced debugging access.
 ![back](img/3.jpeg)
 
 
-## License
+## Licença
 
 O projeto é um hardware de código aberto e está disponível na licença de hardware aberto do CERN.
 
