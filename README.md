@@ -86,4 +86,4 @@ O projeto é um hardware de código aberto e está disponível na licença de ha
 A placa Franzininho WiFi é certificada na OSHWA:
  [UID BR000006](https://certification.oshwa.org/br000006.html)
 
-![oshwa](OSHW_mark_BR000006.png)
+![oshwa](license/OSHW_mark_BR000006.png)
