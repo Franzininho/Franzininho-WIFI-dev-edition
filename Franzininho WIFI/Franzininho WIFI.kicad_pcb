@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.9-73d0e3b20d~88~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.10-88a1d61d58~88~ubuntu20.04.1)
 
   (general
     (thickness 1.6)
@@ -206,6 +206,7 @@
 
   (module Graphics:bandeiraBrasil (layer Bottom) (tedit 0) (tstamp 5FB572A2)
     (at 156.8958 98.4504)
+    (attr smd)
     (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
@@ -355,6 +356,7 @@
 
   (module Graphics:logo-franzininho12_7 (layer Bottom) (tedit 0) (tstamp 5FB5721A)
     (at 166.751 109.8296 180)
+    (attr smd)
     (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
@@ -803,6 +805,7 @@
   (module esp32-s2:esp32-s2-wrooom locked (layer Top) (tedit 5E89F0E8) (tstamp 5FB38588)
     (at 165.1 105 270)
     (path /5FB2E821)
+    (attr smd)
     (fp_text reference U1 (at 0.16 -17.92 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
